@@ -1,9 +1,7 @@
-print("Hello, World")
 Hello, World!
-x = "Mary Pearl"
-y = 19
-z = 161
-print(x)
-print(y)
-print(z)
-print(x,y,z)
+x = int(6)  #This is for an integer
+y = float(4)    #This is for a float
+print(50-25)   #This is subtraction👀💀
+print(34+45)    #This is addition
+print(34/17)     #This is division
+print(23*10)      #This is multiplication
